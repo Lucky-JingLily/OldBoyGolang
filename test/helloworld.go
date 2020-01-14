@@ -1,4 +1,5 @@
-package main
+package test
+
 //
 //func add(a int, b int) int {
 //	var sum int
